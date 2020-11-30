@@ -1,5 +1,5 @@
-theme: jekyll-theme-midnight
-title: [FRAG.DESIGN]
-show_downloads: false
+title: Slate theme
+description: Slate is a theme for GitHub Pages.
+show_downloads: true
 google_analytics:
-description: []
+theme: jekyll-theme-slate
