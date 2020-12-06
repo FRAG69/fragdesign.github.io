@@ -2,4 +2,8 @@
 layout: default
 ---
 
-# Work In Progress
+# FRAG Design
+
+## UE4 & Level Design Specialist.
+
+## Site is currently work in progress!
