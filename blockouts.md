@@ -1,3 +1,7 @@
+| Main         | Projects          | External |
+|:-------------|:------------------|:---------|
+| [Index](./index.md)           | [Blockouts](./blockouts.md) | nice     |
+
 ![Blockout Test 1](./images/blockouts/1a.jpg)
 
 * * *
