@@ -4,10 +4,17 @@ layout: default
 
 # FRAG Design
 
-![Logo](./logo-800x650-m.png)
+```python
+# UE4 & Level Design Specialist.
+if site == 0:
+  return true;
+  else:
+  print('Heck')
 
-## UE4 & Level Design Specialist.
+```
 
-## Site is currently work in progress, New year and lockdown is nuts
+# Please email me at fragisfraf@gmail.com if needed!
 
-Please email me at fragisfraf@gmail.com if needed!
+```
+The final element.
+```
