@@ -4,4 +4,4 @@ layout: default
 
 | Main         | Projects          | External |
 |:-------------|:------------------|:---------|
-| [Index](./index.md).           | good swedish fish | nice     |
+| [Index](./index.md)           | [Blockouts](./blockouts.md) | nice     |

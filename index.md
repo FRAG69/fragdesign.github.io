@@ -4,7 +4,7 @@ layout: default
 
 # FRAG Design
 
-[Projects](./projects.md).
+[Projects](./projects.md)
 
 ```python
 # UE4 & Level Design Specialist.
